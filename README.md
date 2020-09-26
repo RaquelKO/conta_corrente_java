@@ -4,16 +4,17 @@ Exercício da disciplina de Programação Orientada a Objetos da FACENS.
 
 "Desenvolva uma aplicação que:
 
-1. Construa a classe ContaCorrente com  4 atributos privados: número conta, saldo, limite do especial, nome do cliente.
+* Construa a classe ContaCorrente com  4 atributos privados: número conta, saldo, limite do especial, nome do cliente.
 
-2. Regras para a classe ContaCorrente:
+* Regras para a classe ContaCorrente:
 
 -O saldo nunca poderá ser menor do que o valor do limite do especial.
+<br>
 -O limite do especial deverá ser um valor maior ou igual a zero.
 
-3. Crie uma classe chamada TesteContaCorrente com o método main.
+* Crie uma classe chamada TesteContaCorrente com o método main.
 
-4. Dentro do main construir um menu com as seguintes opções:
+* Dentro do main construir um menu com as seguintes opções:
 
 1. Cadastrar uma nova conta corrente. O número da conta deverá ser único. Todas as contas deverão ser armazenadas em uma lista.
 2. Depositar. Nesta opção o usuário informa o número da conta e o valor do depósito. Se o número da conta existir, fazer o depósito. Se não existir, apresentar uma mensagem de erro.
