@@ -8,9 +8,9 @@ Exercício da disciplina de Programação Orientada a Objetos da FACENS.
 
 * Regras para a classe ContaCorrente:
 
--O saldo nunca poderá ser menor do que o valor do limite do especial.
+	-O saldo nunca poderá ser menor do que o valor do limite do especial.
 <br>
--O limite do especial deverá ser um valor maior ou igual a zero.
+	-O limite do especial deverá ser um valor maior ou igual a zero.
 
 * Crie uma classe chamada TesteContaCorrente com o método main.
 
